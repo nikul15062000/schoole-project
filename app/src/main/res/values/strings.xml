@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">schoolapp</string>
+
+    //sign up
+    <string name="login_signup">Sign Up</string>
+    <string name="sign_up_name">Name</string>
+    <string name="sign_up_phone">Phone</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_register">Register</string>
+    <string name="already_account_sign_in">Already have an account Yet?</string>
+    <string name="login">Login</string>
+
+    //signin
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_into_continue">Sign in to continue</string>
+    <string name="email">Enter MobileNumbar</string>
+    <string name="login_remember">Remember Me</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="dont_account">Don\'t have an account ?</string>
+
+    //class data
+
+    <string name="class1">standard 1</string>
+    <string name="class2">standard 2</string>
+    <string name="class3">standard 3</string>
+    <string name="class4">standard 4</string>
+    <string name="class5">standard 5</string>
+    <string name="class6">standard 6</string>
+    <string name="class7">standard 7</string>
+    <string name="class8">standard 8</string>
+    <string name="class9">standard 9</string>
+    <string name="class10">standard 10</string>
+
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity.languagePage">
+
+    <TextView
+        android:id="@+id/eng"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/textviewborder"
+        android:gravity="center"
+        android:text="English"
+        android:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/hind"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/textviewborder"
+        android:gravity="center"
+        android:text="Hindi"
+        android:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/guj"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/textviewborder"
+        android:gravity="center"
+        android:text="Gujarati"
+        android:textSize="35dp" />
+
+
+</LinearLayout>
